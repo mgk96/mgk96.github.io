@@ -1,4 +1,4 @@
-commitlint-check.ymlname: Lint Commit Messages
+name: Lint Commit Messages
 
 on:
   push:
