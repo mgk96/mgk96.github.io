@@ -1,0 +1,9 @@
+name: 'My Action'
+description: 'A description of my action'
+inputs:
+  my-input:
+    description: 'An input for my action'
+    required: true
+runs:
+  using: 'node12'
+  main: 'index.js'
